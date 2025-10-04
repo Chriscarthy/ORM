@@ -46,7 +46,8 @@ admin.site.register(Car_DB,Car_DBAdmin)
 
 
 ## OUTPUT
-![alt text](<Screenshot (49).png>)
+<img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/ed9bdc04-eaa1-482c-86a3-23fbf43d8c7e" />
+
 
 
 ## RESULT
